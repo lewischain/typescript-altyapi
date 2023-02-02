@@ -7,7 +7,7 @@ export const Command : Commands = {
     name: "istatistik",
     description: "RomanBot'un istatistik sekmesine erişebilirsin.",
 
-    run:(client, message, args) => {
+    run:(client, message, args) {
 
         const userSize : string = client.guilds.cache.reduce((a, b) => a + b.memberCount, 0).toLocaleString().replace(",", ".");
         const guildSize : string = client.guilds.cache.size.toLocaleString().replace(",", ".");
