@@ -1,0 +1,7 @@
+{
+    "token": "your_token",
+    "prefix": "your_prefix",
+    "database": {
+        "url": "your_mongodb_url"
+    }
+}
