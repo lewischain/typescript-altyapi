@@ -16,4 +16,4 @@
 
 - Projenin gelişiminden memmnunsanız starlamanızı tavsiye ederim.
 
--- coding and designing: github.com/romanwashere | 'Roman#0001
+> coding and designing: github.com/romanwashere | 'Roman#0001
